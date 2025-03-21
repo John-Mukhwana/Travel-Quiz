@@ -1,0 +1,30 @@
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore XAMPP specific files
+/xamppfiles/
+
+# Ignore node_modules
+/node_modules/
+
+# Ignore Composer dependencies
+/vendor/
+
+# Ignore environment variables
+.env
+
+# Ignore log files and databases
+*.log
+*.sql
+*.sqlite
+
+# Ignore IDE specific files
+.vscode/
+.idea/
+
+# Ignore compiled files
+*.compiled
+
+# Ignore cache
+/cache/
