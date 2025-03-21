@@ -1,4 +1,4 @@
-<footer class="bg-brown text-white p-6 mt-8">
+<footer class="bg-amber-800 text-white p-6 mt-8"> <!-- brown → amber-800 -->
     <div class="container mx-auto grid grid-cols-1 md:grid-cols-3 gap-8 text-center md:text-left">
         <div>
             <h3 class="text-lg font-bold mb-2">World Travel Quiz</h3>
@@ -7,9 +7,9 @@
         <div>
             <h3 class="text-lg font-bold mb-2">Quick Links</h3>
             <ul>
-                <li><a href="/about.php" class="hover:text-skyblue">About Us</a></li>
-                <li><a href="/gallery.php" class="hover:text-skyblue">Gallery</a></li>
-                <li><a href="/contact.php" class="hover:text-skyblue">Contact</a></li>
+                <li><a href="/about.php" class="hover:text-blue-300">About Us</a></li>
+                <li><a href="/gallery.php" class="hover:text-blue-300">Gallery</a></li>
+                <li><a href="/contact.php" class="hover:text-blue-300">Contact</a></li>
             </ul>
         </div>
         <div>
